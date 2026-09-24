@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.2.0](https://github.com/decepulis/player.style/compare/@player.style/reelplay@0.1.2...@player.style/reelplay@0.2.0) (2026-09-24)
+
+
+### Features
+
+* add error dialog ([#143](https://github.com/decepulis/player.style/issues/143)) ([2edd3fe](https://github.com/decepulis/player.style/commit/2edd3fec8b54d187c45dd88d13ac73a3b616c373))
+* add Reelplay theme ([#94](https://github.com/decepulis/player.style/issues/94)) ([872d05a](https://github.com/decepulis/player.style/commit/872d05a192a0bda926774eff9d4c2c3be7240f8f))
+* add typesVersions and CJS support ([#122](https://github.com/decepulis/player.style/issues/122)) ([8811309](https://github.com/decepulis/player.style/commit/8811309ef34a9af3f8796069fe85abcf82325eb7))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * build-theme bumped from ^0.1.1 to ^0.2.0
+
 ## [0.1.2](https://github.com/muxinc/player.style/compare/@player.style/reelplay@0.1.1...@player.style/reelplay@0.1.2) (2025-12-04)
 
 

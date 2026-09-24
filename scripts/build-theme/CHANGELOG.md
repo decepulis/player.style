@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.2.0](https://github.com/decepulis/player.style/compare/build-theme@0.1.1...build-theme@0.2.0) (2026-09-24)
+
+
+### Features
+
+* add tailwind-audio theme ([#40](https://github.com/decepulis/player.style/issues/40)) ([c80e967](https://github.com/decepulis/player.style/commit/c80e9670548ff1db8e241e0b8dc90084004ebd5f))
+* add typesVersions and CJS support ([#122](https://github.com/decepulis/player.style/issues/122)) ([8811309](https://github.com/decepulis/player.style/commit/8811309ef34a9af3f8796069fe85abcf82325eb7))
+
+
+### Bug Fixes
+
+* escape backtick in template HTML ([4cae721](https://github.com/decepulis/player.style/commit/4cae7212ac4d2ec1f408ef1f9ae3ac5c684efc7d)), closes [#98](https://github.com/decepulis/player.style/issues/98)
+* media theme types bug ([8dd42da](https://github.com/decepulis/player.style/commit/8dd42dab7f0536a49f2df5109f27c7285ad9ff48))
+* Tailwind Audio Theme responsive on packaged version ([2793775](https://github.com/decepulis/player.style/commit/27937752623339f5d2cec01fad67cf6ce49d1f72))
+* types and cleanup theme build ([#8](https://github.com/decepulis/player.style/issues/8)) ([21b9916](https://github.com/decepulis/player.style/commit/21b991621accfecba421f3cf1d2dbb0b98509d95))
+* Updated ce-la-react ([8bb95a9](https://github.com/decepulis/player.style/commit/8bb95a957120f747824c3f7ce1e8bce161407a99))
+* upgrade to Media Chrome v4 ([#64](https://github.com/decepulis/player.style/issues/64)) ([be68af2](https://github.com/decepulis/player.style/commit/be68af2f9c3a6ff6674b9951f0b34f2bfdb042aa))
+* use ce-la-react, fix React 19+ wrappers ([#146](https://github.com/decepulis/player.style/issues/146)) ([10f29b3](https://github.com/decepulis/player.style/commit/10f29b3f20b1a359300aaa0cd5c1f93a9e0a59dc))
+
 ## [0.1.1](https://github.com/muxinc/player.style/compare/build-theme@0.1.0...build-theme@0.1.1) (2025-12-04)
 
 

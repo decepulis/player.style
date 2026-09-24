@@ -1,5 +1,27 @@
 # Changelog
 
+## [0.2.0](https://github.com/decepulis/player.style/compare/@player.style/instaplay@0.1.2...@player.style/instaplay@0.2.0) (2026-09-24)
+
+
+### Features
+
+* add error dialog ([#143](https://github.com/decepulis/player.style/issues/143)) ([2edd3fe](https://github.com/decepulis/player.style/commit/2edd3fec8b54d187c45dd88d13ac73a3b616c373))
+* add Instaplay theme ([#58](https://github.com/decepulis/player.style/issues/58)) ([fb84b90](https://github.com/decepulis/player.style/commit/fb84b909f9c7dce6b8cd15ce3cc6af9ef6f21c1f))
+* add typesVersions and CJS support ([#122](https://github.com/decepulis/player.style/issues/122)) ([8811309](https://github.com/decepulis/player.style/commit/8811309ef34a9af3f8796069fe85abcf82325eb7))
+
+
+### Bug Fixes
+
+* empty YT settings menus ([#100](https://github.com/decepulis/player.style/issues/100)) ([bbc3349](https://github.com/decepulis/player.style/commit/bbc33498110921f248ad62b920214ff7aff7ed15))
+* upgrade to Media Chrome v4 ([#64](https://github.com/decepulis/player.style/issues/64)) ([be68af2](https://github.com/decepulis/player.style/commit/be68af2f9c3a6ff6674b9951f0b34f2bfdb042aa))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * build-theme bumped from ^0.1.1 to ^0.2.0
+
 ## [0.1.2](https://github.com/muxinc/player.style/compare/@player.style/instaplay@0.1.1...@player.style/instaplay@0.1.2) (2025-12-04)
 
 

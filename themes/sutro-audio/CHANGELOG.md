@@ -1,5 +1,26 @@
 # Changelog
 
+## [0.1.0](https://github.com/decepulis/player.style/compare/@player.style/sutro-audio@0.0.8...@player.style/sutro-audio@0.1.0) (2026-09-24)
+
+
+### Features
+
+* add Sutro audio theme ([#65](https://github.com/decepulis/player.style/issues/65)) ([1ec5d61](https://github.com/decepulis/player.style/commit/1ec5d61b223138b1f668ec1d593189e2717a7279))
+* add typesVersions and CJS support ([#122](https://github.com/decepulis/player.style/issues/122)) ([8811309](https://github.com/decepulis/player.style/commit/8811309ef34a9af3f8796069fe85abcf82325eb7))
+
+
+### Bug Fixes
+
+* empty YT settings menus ([#100](https://github.com/decepulis/player.style/issues/100)) ([bbc3349](https://github.com/decepulis/player.style/commit/bbc33498110921f248ad62b920214ff7aff7ed15))
+* mobile overflow. hide duration on mobile ([#87](https://github.com/decepulis/player.style/issues/87)) ([47cf00c](https://github.com/decepulis/player.style/commit/47cf00c0c11e08a2e90098ef43d29ed6cf1e8fbc)), closes [#78](https://github.com/decepulis/player.style/issues/78)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * build-theme bumped from ^0.1.1 to ^0.2.0
+
 ## [0.0.8](https://github.com/muxinc/player.style/compare/@player.style/sutro-audio@0.0.7...@player.style/sutro-audio@0.0.8) (2025-12-04)
 
 

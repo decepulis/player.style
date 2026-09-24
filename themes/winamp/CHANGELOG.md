@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.1.0](https://github.com/decepulis/player.style/compare/@player.style/winamp@0.0.13...@player.style/winamp@0.1.0) (2026-09-24)
+
+
+### Features
+
+* add typesVersions and CJS support ([#122](https://github.com/decepulis/player.style/issues/122)) ([8811309](https://github.com/decepulis/player.style/commit/8811309ef34a9af3f8796069fe85abcf82325eb7))
+* add Winamp theme ([#53](https://github.com/decepulis/player.style/issues/53)) ([e258398](https://github.com/decepulis/player.style/commit/e258398d75eab19cf1656e5a597f518344d5f5b3))
+
+
+### Bug Fixes
+
+* upgrade to Media Chrome v4 ([#64](https://github.com/decepulis/player.style/issues/64)) ([be68af2](https://github.com/decepulis/player.style/commit/be68af2f9c3a6ff6674b9951f0b34f2bfdb042aa))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * build-theme bumped from ^0.1.1 to ^0.2.0
+
 ## [0.0.13](https://github.com/muxinc/player.style/compare/@player.style/winamp@0.0.12...@player.style/winamp@0.0.13) (2025-12-04)
 
 
