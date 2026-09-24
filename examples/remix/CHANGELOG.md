@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.0.7](https://github.com/decepulis/player.style/compare/test-mux-player-style-remix@1.0.6...test-mux-player-style-remix@1.0.7) (2026-09-24)
+
+
+### Bug Fixes
+
+* **deps:** Bump media-chrome ([f1a9d2c](https://github.com/decepulis/player.style/commit/f1a9d2c2319cdd2206e0e25f0326a55599afb39d))
+* Updated ce-la-react ([8bb95a9](https://github.com/decepulis/player.style/commit/8bb95a957120f747824c3f7ce1e8bce161407a99))
+* use ce-la-react, fix React 19+ wrappers ([#146](https://github.com/decepulis/player.style/issues/146)) ([10f29b3](https://github.com/decepulis/player.style/commit/10f29b3f20b1a359300aaa0cd5c1f93a9e0a59dc))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * player.style bumped from ^0.3.4 to ^0.4.0
+
 ## [1.0.6](https://github.com/muxinc/player.style/compare/test-mux-player-style-remix@1.0.5...test-mux-player-style-remix@1.0.6) (2026-04-15)
 
 
